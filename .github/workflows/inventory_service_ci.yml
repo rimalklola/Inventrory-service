@@ -42,5 +42,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: docker push rimlakhiri/oussamalmhiyb:tagname
+        tags:docker push rimlakhiri/oussamalmhiyb:tagname 
 
